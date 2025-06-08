@@ -95,7 +95,7 @@ python scripts/deploy-vm.py
 ```
 
 Étapes effectuées :
-
+```bash
     Connexion sécurisée à vCenter
 
     Vérification des ressources
@@ -110,15 +110,15 @@ python scripts/deploy-vm.py
 
 ```
 📄 Logs
-
+```bash
 Tous les événements sont enregistrés dans le dossier logs/ avec des fichiers datés.
 
 ```
 👥 Auteurs
-
+```bash
     Hasna Daoui
 
     Nana Diawara
-
+```
 
 
