@@ -11,7 +11,7 @@ Ce projet permet de **déployer automatiquement des machines virtuelles** (VMs) 
 ---
 
 ## 🗂️ Arborescence du Projet
-
+```bash
 vm-deployment/
 ├── config/
 │ └── vm-config.json # Fichier de configuration principal
@@ -26,7 +26,7 @@ vm-deployment/
 ├── install.py # Script d'installation automatisée
 └── README.md # Documentation (ce fichier)
 
-
+```
 
 
 ---
