@@ -109,12 +109,12 @@ python scripts/deploy-vm.py
     Démarrage (optionnel)
 
 ```
-📄 Logs
+## 📄 Logs
 ```bash
 Tous les événements sont enregistrés dans le dossier logs/ avec des fichiers datés.
 
 ```
-👥 Auteurs
+## 👥 Auteurs
 ```bash
     Hasna Daoui
 
