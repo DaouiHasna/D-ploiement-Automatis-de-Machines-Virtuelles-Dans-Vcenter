@@ -72,7 +72,7 @@ cd vm-deployment
 ```
 
 
-2. Lancer le script d'installation
+### 2. Lancer le script d'installation
 
 python install.py
 
