@@ -73,9 +73,9 @@ cd vm-deployment
 
 
 ### 2. Lancer le script d'installation
-
+```bash
 python install.py
-
+```
 Ce script :
 
     Vérifie votre version de Python
@@ -88,13 +88,13 @@ Ce script :
 
 
 
-🚀 Utilisation
+## 🚀 Utilisation
 Déploiement d'une VM
 ```bash
 python scripts/deploy-vm.py
 ```
 
-Étapes effectuées :
+## Étapes effectuées :
 ```bash
     Connexion sécurisée à vCenter
 
