@@ -1,16 +1,16 @@
-# 🖥️ Déploiement Automatisé de Machines Virtuelles dans vCenter
+#  Déploiement Automatisé de Machines Virtuelles dans vCenter
 
-## 📌 Description
+##  Description
 
 Ce projet permet de **déployer automatiquement des machines virtuelles** (VMs) dans un environnement VMware vSphere à l'aide de scripts Python. Il réduit les interventions manuelles, évite les erreurs humaines, et standardise le processus de déploiement à partir de templates.
 
-## 🎯 Objectif
+##  Objectif
 
 > Automatiser le processus de création, configuration et mise en service de VMs dans vCenter.
 
 ---
 
-## 🗂️ Arborescence du Projet
+##  Arborescence du Projet
 ```bash
 vm-deployment/
 ├── config/
@@ -31,7 +31,7 @@ vm-deployment/
 
 ---
 
-## ⚙️ Prérequis
+##  Prérequis
 
 - Python **3.6 ou supérieur**
 - Accès à un serveur **VMware vCenter**
@@ -41,7 +41,7 @@ vm-deployment/
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 ### 1. Cloner le projet
 ```bash
@@ -53,7 +53,7 @@ cd vm-deployment
 
 ---
 
-## ⚙️ Prérequis
+##  Prérequis
 
 - Python **3.6 ou supérieur**
 - Accès à un serveur **VMware vCenter**
@@ -63,7 +63,7 @@ cd vm-deployment
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 ### 1. Cloner le projet
 ```bash
@@ -88,7 +88,7 @@ Ce script :
 
 
 
-## 🚀 Utilisation
+##  Utilisation
 Déploiement d'une VM
 ```bash
 python scripts/deploy-vm.py
@@ -109,12 +109,12 @@ python scripts/deploy-vm.py
     Démarrage (optionnel)
 
 ```
-## 📄 Logs
+##  Logs
 ```bash
 Tous les événements sont enregistrés dans le dossier logs/ avec des fichiers datés.
 
 ```
-## 👥 Auteurs
+##  Auteurs
 ```bash
     Hasna Daoui
 
